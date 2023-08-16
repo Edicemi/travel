@@ -1,0 +1,35 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+}
+.nav-button {
+  background-color: #df6951;
+  height: 40px;
+  width: 130px;
+  color: white;
+  border: 0;
+  border-radius: 5px;
+  margin-left: 12vw;
+}
+.nav-list {
+  list-style: none;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  margin: 0 5vw 0 5vw;
+}
+.nav-list1 {
+  padding-right: 25px;
+}
+.navb {
+  justify-content: flex-end;
+}
+
+@media screen and (min-width: 100px) and (max-width: 299px) {
+}
+@media screen and (min-width: 300px) and (max-width: 500px) {
+}
+@media screen and (min-width: 501px) and (max-width: 850px) {
+}
+@media screen and (min-width: 851px) and (max-width: 1200px) {
+}
